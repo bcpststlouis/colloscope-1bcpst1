@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📅 Colloscope 1BCPST1 - Saint Louis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📅 Mon Colloscope BCPST1</h1>
+        <p class="subtitle">Saint Louis 2025-2026</p>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="groupSelect">Mon Groupe (1-16)</label>
+                <select id="groupSelect">
+                    <option value="">-- Choisir un groupe --</option>
+                    <option value="1">Groupe 1</option>
+                    <option value="2">Groupe 2</option>
+                    <option value="3">Groupe 3</option>
+                    <option value="4">Groupe 4</option>
+                    <option value="5">Groupe 5</option>
+                    <option value="6">Groupe 6</option>
+                    <option value="7">Groupe 7</option>
+                    <option value="8">Groupe 8</option>
+                    <option value="9">Groupe 9</option>
+                    <option value="10">Groupe 10</option>
+                    <option value="12">Groupe 12</option>
+                    <option value="13">Groupe 13</option>
+                    <option value="14">Groupe 14</option>
+                    <option value="15">Groupe 15</option>
+                    <option value="16">Groupe 16</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="weekSelect">Semaine</label>
+                <select id="weekSelect">
+                    <option value="">-- Choisir une semaine --</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="results" id="results">
+            <div class="no-results">
+                Sélectionnez un groupe et une semaine pour voir vos colles
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
