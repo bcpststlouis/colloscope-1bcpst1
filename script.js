@@ -45,196 +45,196 @@ const colles = {
         jour: 'Mercredi',
         horaire: '13h-14h',
         salle: 'R217',
-        sequence: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16]
+        sequence: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
     },
     'Mathématiques 1': {
         prof: 'M Kameche',
         jour: 'Jeudi',
         horaire: '18h-19h',
         salle: 'R302',
-        sequence: [7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6]
+        sequence: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
     },
     'SVT 1': {
         prof: 'M Becan / M Morales',
         jour: 'Jeudi',
         horaire: '17h-18h30',
         salle: 'R304',
-        sequence: [10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        sequence: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1]
     },
     'Sc. Physiques 2': {
         prof: 'M Bacrie / Narwa',
         jour: 'Jeudi',
         horaire: '18h-19h',
         salle: 'R028',
-        sequence: [12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        sequence: [ 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2]
     },
     'Mathématiques 2': {
         prof: 'M Plouviez',
         jour: 'Lundi',
         horaire: '17h-18h',
         salle: 'C397',
-        sequence: [6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5]
+        sequence: [ 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2]
     },
     'SVT 2': {
         prof: 'M Huet',
         jour: 'Lundi',
         horaire: '16h30-18h',
         salle: 'R215',
-        sequence: [13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12]
+        sequence: [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3]
     },
     'Anglais 2': {
         prof: 'M Meli',
         jour: 'Jeudi',
         horaire: '18h-19h',
         salle: 'C180',
-        sequence: [8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7]
+        sequence: [ 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3]
     },
     'Sc. Physiques 3': {
         prof: 'M Réocreux',
         jour: 'Mardi',
         horaire: '18h-19h',
         salle: 'R030',
-        sequence: [14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13]
+        sequence: [ 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4]
     },
     'Mathématiques 3': {
         prof: 'M Kameche',
         jour: 'Jeudi',
         horaire: '17h-18h',
         salle: 'R302',
-        sequence: [4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3]
+        sequence: [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4]
     },
     'SVT 3': {
         prof: 'M Vartanian',
         jour: 'Jeudi',
         horaire: '17h10-18h40',
         salle: 'R215',
-        sequence: [10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        sequence: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5]
     },
     'Sc. Physiques 4': {
         prof: 'M Chapuis',
         jour: 'Mardi',
         horaire: '18h-19h',
         salle: 'R304',
-        sequence: [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1]
+        sequence: [ 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6]
     },
     'Mathématiques 4': {
         prof: 'M Levadou',
         jour: 'Jeudi',
         horaire: '17h30-18h30',
         salle: 'R316',
-        sequence: [16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15]
+        sequence: [ 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6]
     },
     'SVT 4': {
         prof: 'M Huet',
         jour: 'Jeudi',
         horaire: '16h30-18h',
         salle: 'R217',
-        sequence: [12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        sequence: [8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7]
     },
     'Anglais 4': {
         prof: 'M Delaby',
         jour: 'Mardi',
         horaire: '16h-17h',
         salle: 'C181',
-        sequence: [3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2]
+        sequence: [8, 9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7]
     },
     'Sc. Physiques 5': {
         prof: 'Mme Lepage',
         jour: 'Lundi',
         horaire: '16h30-17h30',
         salle: 'R217',
-        sequence: [12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        sequence: [9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8]
     },
     'Mathématiques 5': {
         prof: 'M Decouvelaere',
         jour: 'Jeudi',
         horaire: '16h30-17h30',
         salle: 'R310',
-        sequence: [10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        sequence: [9, 10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8]
     },
     'SVT 5': {
         prof: 'Mme Algrain-Pitavy',
         jour: 'Jeudi',
         horaire: '17h30-19h',
         salle: 'R207',
-        sequence: [16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15]
+        sequence: [10, 11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9]
     },
     'Sc. Physiques 6': {
         prof: 'M Bacrie / Narwa',
         jour: 'Jeudi',
         horaire: '17h-18h',
         salle: 'R028',
-        sequence: [4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3]
+        sequence: [11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     'Mathématiques 6': {
         prof: 'M Kameche',
         jour: 'Mardi',
         horaire: '18h-19h',
         salle: 'R302',
-        sequence: [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1]
+        sequence: [11, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     },
     'SVT 6': {
         prof: 'M Huet',
         jour: 'Vendredi',
         horaire: '16h30-18h',
         salle: 'R215',
-        sequence: [8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7]
+        sequence: [12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
     },
     'Anglais 6': {
         prof: 'M Meli',
         jour: 'Lundi',
         horaire: '18h-19h',
         salle: 'C281',
-        sequence: [14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13]
+        sequence: [12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
     },
     'Sc. Physiques 7': {
         prof: 'M Champagne',
         jour: 'Jeudi',
         horaire: '17h-18h',
         salle: 'R011',
-        sequence: [13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12]
+        sequence: [13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     },
     'Mathématiques 7': {
         prof: 'Mme Guenard-Hug',
         jour: 'Mercredi',
         horaire: '18h-19h',
         salle: 'R312',
-        sequence: [3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2]
+        sequence: [13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     },
     'SVT 7': {
         prof: 'M Guitton',
         jour: 'Jeudi',
         horaire: '16h30-18h',
         salle: 'R205',
-        sequence: [10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        sequence: [14, 15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
     },
     'Sc. Physiques 8': {
         prof: 'M. Di Costanzo',
         jour: 'Vendredi',
         horaire: '16h-17h',
         salle: 'R103',
-        sequence: [6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5]
+        sequence: [15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
     },
     'Mathématiques 8': {
         prof: 'M Levadou',
         jour: 'Jeudi',
         horaire: '16h30-17h30',
         salle: 'R316',
-        sequence: [5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3, 4]
+        sequence: [15, 16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
     },
     'SVT 8': {
         prof: 'Mme Galardon / M Boutonnet',
         jour: 'Jeudi',
         horaire: '16h30-18h',
         salle: 'R209',
-        sequence: [16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15]
+        sequence: [16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
     },
     'Anglais 8': {
         prof: 'M Meli',
         jour: 'Lundi',
         horaire: '17h-18h',
         salle: 'C281',
-        sequence: [7, 8, 9, 10, 12, 13, 14, 15, 16, 1, 2, 3, 4, 5, 6]
+        sequence: [16, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
     }
 };
 
@@ -306,3 +306,4 @@ function displayResults() {
 // Attacher les événements de changement aux menus déroulants
 document.getElementById('groupSelect').addEventListener('change', displayResults);
 document.getElementById('weekSelect').addEventListener('change', displayResults);
+
