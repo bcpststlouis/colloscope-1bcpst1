@@ -38,7 +38,6 @@ const weeks = [
 ];
 
 // Données complètes de toutes les colles avec leurs séquences de rotation
-// Chaque séquence contient 15 groupes (pas de groupe 11) et se répète automatiquement
 const colles = {
     'Sc. Physiques 1': {
         prof: 'M Launay',
@@ -306,4 +305,5 @@ function displayResults() {
 // Attacher les événements de changement aux menus déroulants
 document.getElementById('groupSelect').addEventListener('change', displayResults);
 document.getElementById('weekSelect').addEventListener('change', displayResults);
+
 
