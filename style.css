@@ -96,7 +96,7 @@ select:focus {
 .colle-title {
     font-size: 1.3em;
     font-weight: bold;
-    color: #667eea;
+    color: #2b8353;
     margin-bottom: 10px;
 }
 
@@ -138,3 +138,4 @@ select:focus {
         flex-direction: column;
     }
 }
+
